@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "imageSrc": "Skills/html.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "CSS",
+        "imageSrc": "Skills/css.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "JS",
+        "imageSrc": "Skills/js.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "SQL",
+        "imageSrc": "Skills/sql.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "React JS",
+        "imageSrc": "Skills/react.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Tailwind",
+        "imageSrc": "Skills/tailwind.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Github",
+        "imageSrc": "Skills/github.jpeg"
+    },
+    {
+        "id": 1,
+        "title": "Good communicator",
+        "imageSrc": "Skills/commnication.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Problem solving skills",
+        "imageSrc": "Skills/problem.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Teamwork",
+        "imageSrc": "Skills/teamwork.jpeg"
+    }
+  
+]

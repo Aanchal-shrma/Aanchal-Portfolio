@@ -1,0 +1,128 @@
+ @tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+  --box-shadow: 5px 5px 10px 10px rgba(110, 175, 10, 0.5);
+  --bg-color:rgb(4, 26, 187);
+}
+
+body{
+  min-width: 500px;
+  background-color: rgb(2, 2, 72);
+  color: white;
+}
+@keyframes animation{
+  0% {
+    border-color: blue;
+    transform: translate(0,0px);
+    box-shadow: 10px 10px 100px 50px blue;
+  }
+   25% {
+     border-color: rgb(239,244,11);
+    box-shadow: 10px 10px 100px 50px rgb(239,244,11);
+  }
+   50% {
+       border-color: rgb(12, 12, 199);
+    transform: translate(0,10px);
+    box-shadow: 10px 10px 100px 50px rgb(12, 12, 199);
+  }
+   75% {
+      border-color: rgb(130, 217, 160);
+    box-shadow: 10px 10px 100px 50px rgb(130, 217, 160);
+  }
+   100% {
+    border-color: rgb(50, 55, 205);
+    transform: translate(0,-0px);
+    box-shadow: 10px 10px 100px 50px rgb(50, 55, 205);
+  }
+}
+.icon:hover{
+ box-shadow: var(--box-shadow);
+ background-color: var(--bg-color);
+}
+.icon{
+  border: 2px solid yellow;
+}
+.left{
+  border: 2px solid yellow;
+  background-color: black;
+  box-shadow: var(--box-shadow);
+}
+.left:hover{
+  background-color: var(--bg-color);
+}
+.right{
+  border: 2px solid yellow;
+}
+.right{
+  animation-name: animation;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.right img{
+  height: 300px;
+  width: 300px;
+}
+/*-------------------card--------------------------*/
+.card{
+  border: 2px solid yellow;
+}
+.card .img img{
+  border: 2px solid yellow;
+}
+.row{
+  display: flex;
+  width: 800px;
+  flex-wrap: wrap;
+}
+.card{
+  box-shadow: var(--box-shadow);
+}
+.card:hover{
+  background-color: var(--bg-color);
+}
+/*------------------------project---------------------*/
+.project{
+  color: white;
+  flex-wrap: wrap;
+}
+
+.projects-right{
+  flex-direction: column;
+}
+.Projectimg{
+  height: 80px;
+  width:80px;
+  border-radius: 100%;
+}
+.items{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  margin: 40px;
+  padding: 30px;
+  /* width: 600px; */
+  border-radius: 10px;
+  border: 2px solid yellow;
+  box-shadow: var(--box-shadow);
+  gap: 3rem;
+  
+}
+.items:hover{
+  background-color: var(--bg-color);
+}
+.head{
+  color: yellow;
+}
+
+
+ /*---------------------skills--------------------------*/
+
+.box{
+  border:2px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+.box:hover{
+  background-color: var(--bg-color);
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "About/img1.jpg",
+        "heading": "Coding enthusiast",
+        "des": "I just want to know how engineers handle millions of user on their page."
+    },
+    {
+        "id": 2,
+        "imgsrc": "About/img3.jpg",
+        "heading": "Problem solver",
+        "des": "Have deep interest in to knowing others problem and solve them."
+    },
+    {
+        "id": 3,
+        "imgsrc": "About/img4.jpg",
+        "heading": "Good in academics",
+        "des": "self maintained person that's why I put my 100% in my academics."
+    },
+    {
+        "id": 4,
+        "imgsrc": "About/img5.jpg",
+        "heading": "Love to explore",
+        "des": "I just love to explore different areas and to know about their culture."
+    },
+    {
+        "id": 5,
+        "imgsrc": "About/img6.jpg",
+        "heading": "Possitive mindset",
+        "des": "which helps me alot to work in team with different peoples."
+    },
+    {
+        "id": 6,
+        "imgsrc": "About/img2.jpg",
+        "heading": "TV lover",
+        "des": "In my free time I just love to explore cinemas."
+    }
+  
+]

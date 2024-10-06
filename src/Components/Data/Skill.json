@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Good communicator",
+        "imageSrc": "Skills/commnication.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Problem solving skills",
+        "imageSrc": "Skills/problem.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Teamwork",
+        "imageSrc": "Skills/teamwork.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "flexiblity",
+        "imageSrc": "Skills/flexibility.jpeg"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Amazon frontend clone",
+        "Skills": "Html css which show css fundamentals",
+        "image": "Projects/amazon.jpeg",
+        "data": "Code"
+    },
+    {
+        "id": 2,
+        "name": "Netflix frontend clone",
+        "Skills": "Html css which shows css fundamentals",
+        "image": "Projects/netflix.jpeg",
+         "data": "Code"
+    },
+    {
+        "id": 3,
+        "name": "Tic Tac toe game",
+        "Skills": "Html css javscript (DOC object model)",
+        "image": "Projects/tic.jpeg",
+        "data": "Code"
+    },
+    {
+        "id": 4,
+        "name": "Stone paper scissor game",
+        "Skills": "Html css javscript (doc object model)",
+        "image": "Projects/stone.jpeg",
+        "data": "Code"
+    },
+    {
+        "id": 5,
+        "name": "Cat facts",
+        "Skills": "Html css basic javascript (api fetching)",
+        "image": "Projects/cat.jpeg",
+        "data": "Code"
+    },
+    {
+        "id": 6,
+        "name": "Calculator",
+        "Skills": "Html css  baisc concepts of  javascript",
+        "image": "Projects/calc.jpeg",
+        "data": "Code"
+    },
+    {
+        "id": 7,
+        "name": "Timer",
+        "Skills": "Html css basic concepts of javascript ",
+        "image": "Projects/timer.jpeg",
+        "data": "Code"
+    }
+
+]
